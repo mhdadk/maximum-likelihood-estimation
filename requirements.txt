@@ -1,2 +1,2 @@
 torch==1.7.1
-cpuonly==1.0
+cpuonly
